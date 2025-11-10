@@ -17,7 +17,24 @@ I’m an AI/ML researcher with a Master’s in Artificial Intelligence, publishe
 - 📍 Islamabad, Pakistan  
 - 📧 jehadurrahman@uetpeshawar.edu.pk  
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Animation" width="180" />
----
+## 📃 **About Me**
+<table>
+  <tr>
+    <td>
+      I’m an AI/ML researcher with a Master’s in Artificial Intelligence, published work in computer vision, signal processing, and intelligent healthcare systems. My journey bridges academic research and industry, where I explore new horizons in deep learning, computer vision, and healthcare AI.
+      <ul>
+        <li>🧑‍🔬 <b>Passionate about:</b> AI, ML, DL, Computer Vision, NLP, Intelligent Healthcare, Cybersecurity</li>
+        <li>🎓 <b>Aspirations:</b> Pursuing a PhD to advance research in AI, ML, Computer Engineering, Biomedical Engineering, and more</li>
+        <li>🔗 <a href="https://jehadkurt-lcvvnl3.gamma.site/">Portfolio Website</a>, <a href="https://www.linkedin.com/in/jehadkurt/">LinkedIn</a>, <a href="https://wa.me/923439176731">WhatsApp</a></li>
+        <li>📍 Islamabad, Pakistan</li>
+        <li>📧 jehadurrahman@uetpeshawar.edu.pk</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Animation" width="180" />
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ **Skills**
 
