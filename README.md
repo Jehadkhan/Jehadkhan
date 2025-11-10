@@ -1,6 +1,6 @@
 <!-- Profile README for Jehad Ur Rahman -->
 
-# 👋 Hi, I'm **Jehad Ur Rahman**! 🇵🇰
+# 👋 Hi, I'm **Jehad Ur Rahman**!
 
 ![Profile Banner](https://img.shields.io/badge/AI-ML-blue?style=flat-square)  
 AI/ML Researcher | Computer Vision | Healthcare AI | Deep Learning |Natural Language Processing
