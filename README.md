@@ -9,19 +9,11 @@ AI/ML Researcher | Computer Vision | Healthcare AI | Deep Learning |Natural Lang
 ---
 
 ## 📃 **About Me**
-I’m an AI/ML researcher with a Master’s in Artificial Intelligence, published work in computer vision, signal processing, and intelligent healthcare systems. My journey bridges academic research and real-world applications, with projects in smart cities, security, disaster prediction, and healthcare.
 
-- 🧑‍🔬 **Passionate about:** AI, ML, DL, Computer Vision, NLP, Intelligent Healthcare, Cybersecurity  
-- 🎓 **Aspirations:** Pursuing a PhD to advance research in AI, ML, Computer Engineering, Biomedical Engineering, and more  
-- 🔗 [Portfolio Website](https://jehadkurt-lcvvnl3.gamma.site/), [LinkedIn](https://www.linkedin.com/in/jehadkurt/), [WhatsApp](https://wa.me/923439176731)  
-- 📍 Islamabad, Pakistan  
-- 📧 jehadurrahman@uetpeshawar.edu.pk  
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Animation" width="180" />
-## 📃 **About Me**
 <table>
   <tr>
     <td>
-      I’m an AI/ML researcher with a Master’s in Artificial Intelligence, published work in computer vision, signal processing, and intelligent healthcare systems. My journey bridges academic research and industry, where I explore new horizons in deep learning, computer vision, and healthcare AI.
+      I’m an AI/ML researcher with a Master’s in Artificial Intelligence, published work in computer vision, signal processing, and intelligent healthcare systems. My journey bridges academic research and real-world applications, with projects in smart cities, security, disaster prediction, and healthcare.
       <ul>
         <li>🧑‍🔬 <b>Passionate about:</b> AI, ML, DL, Computer Vision, NLP, Intelligent Healthcare, Cybersecurity</li>
         <li>🎓 <b>Aspirations:</b> Pursuing a PhD to advance research in AI, ML, Computer Engineering, Biomedical Engineering, and more</li>
@@ -31,7 +23,7 @@ I’m an AI/ML researcher with a Master’s in Artificial Intelligence, publishe
       </ul>
     </td>
     <td>
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Animation" width="180" />
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Animation" width="300" />
     </td>
   </tr>
 </table>
