@@ -1,7 +1,7 @@
 <!-- Profile README for Jehad Ur Rahman -->
 
 # 👋 Hi, I'm **Jehad Ur Rahman**!
-
+https://readme-typing-svg.demolab.com/demo/?weight=600&size=26&color=D951F7&center=true&lines=AI%2FML+Engineer+
 ![Profile Banner](https://img.shields.io/badge/AI-ML-blue?style=flat-square)  
 AI/ML Researcher | Computer Vision | Healthcare AI | Deep Learning |Natural Language Processing
 
